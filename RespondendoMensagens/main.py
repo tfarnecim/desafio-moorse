@@ -21,4 +21,3 @@ def RecebendoEEnviandoMensagens():
 if __name__ == '__main__':
     app.run(host="localhost", port=8080)
 
-#http://70a4-167-250-157-99.ngrok.io
