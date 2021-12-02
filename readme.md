@@ -11,7 +11,6 @@ Tópicos importantes
    * Instalação
    * Como usar
    * Funcionalidades
-   * Exemplo de utilização
 <!--te-->
 
 <br>
@@ -93,9 +92,5 @@ O programa salvo em ```RecebendoMensagens/main.py``` que recebe as mensagens env
 - [x] Responder usuários que enviem a mensagem $ola para a integração
 - [ ] Ouvir música
 - [ ] Ler um livro
-
-<br>
-
-## 5. Exemplo de utilização
 
 <br>
