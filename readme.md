@@ -29,7 +29,7 @@ João receberá a seguinte mensagem ```Olá João, sou um bot programado por Dou
 
 ## 2. Instalação
 
-Para a correta utilização da aplicação, é necessária a obtenção do python e das biblioteca requests e flask no computador. Seguem tutoriais para Linux e Windows.
+Para a correta utilização da aplicação, é necessária a obtenção do python e das bibliotecas requests e flask no computador. Seguem tutoriais para Linux e Windows.
 
 Para instalar no Linux abra o terminal e execute os seguintes comandos:
 
