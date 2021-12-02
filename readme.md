@@ -52,16 +52,25 @@ Se tudo foi feito corretamente, o sistema está apto a utilizar a aplicação.
 
 ## 3. Como usar
 
-<br>
+Uma vez que tudo foi instalado corretamente, torna-se simples executar os programas.
 
-### 3.1 Pré-requisitos
+A fim de executar o programa que envia as mensagens, certifique-se de estar na pasta raiz do repositório. Logo após, entre na pasta EnviandoMensagens e execute o arquivo ```main.py```.
 
-<br>
-
-### 3.2 Funcionalidades
 
 <br>
 
-## 4. Exemplo de utilização
+## 4. Funcionalidades
+
+O programa salvo em ```EnviandoMensagens/main.py``` que envia as mensagens  é capaz de:
+
+- [x] Logar em uma conta da moorse
+- [x] Resgatar todas as integrações de um usuário
+- [x] Enviar mensagens para números de whatsapp
+- [ ] Ler pensamentos
+- [ ] Contar uma história
+
+<br>
+
+## 5. Exemplo de utilização
 
 <br>
