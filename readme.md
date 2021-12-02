@@ -1,5 +1,5 @@
-<h1 align="center">Desafio moorse</h1>
-<p align="center">Desenvolvido com o intuito de enviar e responder mensagens enviadas no whatsapp</p>
+# Desafio moorse
+Desenvolvido com o intuito de enviar e responder mensagens enviadas no whatsapp
 
 <br>
 
